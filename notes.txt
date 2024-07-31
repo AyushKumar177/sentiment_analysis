@@ -1,0 +1,13 @@
+Sentiment anaylysis types:
+
+Aspect-Based Sentiment Analysis
+With this NLP task, the focus lies on identifying and extracting opinions pertaining to specific aspects of a given text. It is a more detailed version of traditional sentiment analysis where overall sentiment about a certain aspect is classified as positive, negative, or neutral.
+
+Fine Grained Sentiment Analysis
+While aspect-based sentiment analysis focuses on particular aspects of text, fine grained analysis uses a lexicon approach to delve deeper into the sentiments expressed in a given text. It helps in identifying more specific sentiments based on intensity, emotions, and target.
+
+Intent-Based Sentiment Analysis
+This NLP task goes beyond identifying the tone (positive, negative, or neutral) of the given text and leveraged machine learning algorithms to understand the underlying purpose of the text. This could entail gauging whether the text is expressing a query, a complaint, a command, or a desire. Additionally, it also correctly identifies the sentiment of the text along with the degree to which it is expressed.
+
+Emotion Detection
+This type of NLP task involves identifying information about the emotions expressed in a given text. It is more intricate than traditional sentiment analysis since it aims to understand the emotional state of the writer. It can deftly identify emotions such as anger, happiness, fear, and surprise.
